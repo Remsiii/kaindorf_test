@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Bilder/Scenes/MainMenu.unity
+    guid: 501e2c51aa24227448a7f740306ba163
+  - enabled: 1
+    path: Assets/Bilder/Scenes/CharacterSelection.unity
+    guid: c450449f9a399a64baf761a3821c9c0c
+  - enabled: 1
+    path: Assets/Bilder/Scenes/Test/GameplayScene.unity
+    guid: b6e36591b962007488c9b0d7fe82509c
+  - enabled: 1
+    path: Assets/Bilder/Scenes/Settings.unity
+    guid: 662a6be403d5b6047be53565cf1a2803
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Bilder/Scenes/BackgroundScenes/Zwischenraume/HallLab.unity
+    guid: 7d6c1de329d40e84480a8d13d399e37c
+  - enabled: 1
+    path: Assets/Bilder/Scenes/BackgroundScenes/Lab.unity
+    guid: fdab7800d5a456f40b38b6f3bcbb48ab
+  - enabled: 1
+    path: Assets/Bilder/Scenes/BackgroundScenes/Zwischenraume/HallGenerall.unity
+    guid: ba9cd137552da5043ba80af6b1fb6bde
+  - enabled: 1
+    path: Assets/Bilder/Scenes/BackgroundScenes/Automatisierung.unity
+    guid: 8e5b96ad5dc9a55459f179b70d935e2c
+  - enabled: 1
+    path: Assets/Bilder/Scenes/EndScene.unity
+    guid: e171e19fafb24b74e94d87431e723d8d
+  - enabled: 1
+    path: Assets/Bilder/Scenes/BackgroundScenes/Automatisierung2.unity
+    guid: ecd40c77ca574c74dbc66f16f97f855b
+  - enabled: 1
+    path: Assets/Bilder/Scenes/BackgroundScenes/AutomatisierungHall.unity
+    guid: ea6144b050bb48e4da2b2ac4db7cb6b5
+  - enabled: 1
+    path: Assets/Bilder/Scenes/BackgroundScenes/Zwischenraume/TinfHall.unity
+    guid: 88145381a13741c40878c0a0c2b3104c
+  - enabled: 1
+    path: Assets/Bilder/Scenes/BackgroundScenes/TinfLab.unity
+    guid: 73614eb429ab5cf4c82c9b51e3441051
+  - enabled: 1
+    path: Assets/Bilder/Scenes/BackgroundScenes/Haupteingang.unity
+    guid: 72c9eb0ab6a0a0946b186694f6be05f6
+  - enabled: 1
+    path: Assets/Bilder/Scenes/BackgroundScenes/KaffeeAutomat.unity
+    guid: 7f6029efb4e59224aac68517f32c22da
+  - enabled: 1
+    path: Assets/Bilder/Scenes/BackgroundScenes/Zwischenraume/KlassenEG2.unity
+    guid: 32d66c5eba8a6d44998562cf4a600ccc
+  - enabled: 1
+    path: Assets/Bilder/Scenes/BackgroundScenes/Zwischenraume/KlassenOG1.unity
+    guid: 0747481a31978754387cd8f6574d0264
+  - enabled: 1
+    path: Assets/Bilder/Scenes/BackgroundScenes/Zwischenraume/KlassenOG2.unity
+    guid: f51e8be459af0d047b1ccb8f277ffe27
+  - enabled: 1
+    path: Assets/Bilder/Scenes/BackgroundScenes/CafeteriaRechts.unity
+    guid: b37912585faaa734fa4eff13f749e3c9
+  - enabled: 1
+    path: Assets/Bilder/Scenes/BackgroundScenes/CafeteriaLinks.unity
+    guid: 1c25c98aee129f94f9d1efd10083a31d
+  - enabled: 1
+    path: Assets/Bilder/Scenes/BackgroundScenes/TurnsaalLinks.unity
+    guid: bb07cfb5cf1a0874797e07bcc3008a55
+  - enabled: 1
+    path: Assets/Bilder/Scenes/BackgroundScenes/TurnsaalRechts.unity
+    guid: 48b05bf53c025554f84f3ddff3d1adaf
+  - enabled: 1
+    path: Assets/Bilder/Scenes/BackgroundScenes/Zwischenraume/KlassenEG1.unity
+    guid: 59895e0ba43537749b41405b8aadc32f
+  m_configObjects: {}

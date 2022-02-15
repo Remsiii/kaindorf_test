@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Spieler
+  - Coin
+  - Teacher
+  - ChangeBackground
+  - Background
+  - Fruewarnung
+  - ZeugnisToSpawn
+  - Stairs
+  - Entrance
+  - CheckPointRechts
+  - CheckPointLinks
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ignore
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2354801555
+    locked: 0
+  - name: Player_etc
+    uniqueID: 3817046513
+    locked: 0
